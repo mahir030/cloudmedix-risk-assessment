@@ -12,3 +12,4 @@ NIST Cybersecurity Framework 2.0
 - [Asset Inventory](company-profile/asset-inventory.md)
 - [Threat Analysis](risk-assessment/threat-analysis.md)
 - [Gap Analysis](gap-analysis/gap-analysis.md)
+- [Remediation Roadmap](gap-analysis/remediation-roadmap.md)
